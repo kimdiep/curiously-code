@@ -1,16 +1,16 @@
 body {
-  background-color: #66D2D6;
+  background-color: #A9B7C2;
   font-family: 'Raleway', sans-serif;
   margin: 0px;
 }
 
 h1 {
-  color: #E56997;
+  color: #EECE88;
   font-size: 50px;
 }
 
 h2 {
-  color: #E56997;
+  color: #EECE88;
   font-size: 35px;
 }
 
@@ -19,7 +19,7 @@ p {
 }
 
 footer {
-  background-color: #BD97CB;
+  background-color: #D0B49F;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -28,7 +28,7 @@ footer {
 }
 
 #card {
-  background-color: #FBC740;
+  background-color: #4A6F89;
   margin: 30px;
   margin-bottom: 90px;
   padding: 20px;
@@ -54,6 +54,6 @@ footer {
 .social-media {
   font-size: 50px;
   margin: 5px;
-  color: #BD97CB;
+  color: #EECE88;
   text-decoration: none;
 }
